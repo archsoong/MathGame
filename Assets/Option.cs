@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Option : MonoBehaviour {
 
-    public bool isCorrect;
+    public bool isCorrect ;
 
     void OnMouseDown()
     {
