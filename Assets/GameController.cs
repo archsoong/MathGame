@@ -8,6 +8,7 @@ public class GameController : MonoBehaviour {
     public int answer;
 
     public int a;
+        public int b;
 
     public GameObject question;
     public GameObject option1;
