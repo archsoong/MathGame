@@ -7,6 +7,8 @@ public class GameController : MonoBehaviour {
     public string randomOperator;
     public int answer;
 
+    public int a;
+
     public GameObject question;
     public GameObject option1;
     public GameObject option2;
